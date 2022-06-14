@@ -22,7 +22,7 @@ li {
   text-align: center;
 }
 ul li:hover {
-  background-color: blue;
+  background-color:#BDBDBD;
   font-weight: bold;
 }
 
@@ -31,4 +31,8 @@ ul li:hover {
   width: 60%;
   height: 60%;
   padding-left: 20%;
+}
+
+a{
+  text-decoration: none;
 }
